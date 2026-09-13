@@ -4,7 +4,6 @@ SkyMood is a vibrant, neo-brutalist real-time weather application built with HTM
 
 ![SkyMood Preview](https://img.shields.io/badge/Style-Neo--Brutalist-FF6B6B?style=for-the-badge)
 ![API](https://img.shields.io/badge/API-Open--Meteo-4ECDC4?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-FFE66D?style=for-the-badge&labelColor=2D3142)
 
 ---
 
